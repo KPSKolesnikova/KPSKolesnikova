@@ -48,3 +48,24 @@ I'm developing a public portfolio around three questions:
 - [PMI — KICKOFF](https://www.pmi.org/kickoff)
 
 <!-- Add a Selected Work section only when actual public cases are ready. Link each to its repository and explain your personal contribution. Replace roadmap entries with earned credential links only after completion. -->
+
+---
+
+<!-- analytics:start -->
+### Activity in numbers
+
+<p align="center">
+  <a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/analytics-grid.svg" alt="KPSKolesnikova — GitHub activity, calendar through 2026-10-27" width="100%" /></a>
+</p>
+
+<details>
+<summary>What these numbers mean</summary>
+
+- **Activity:** 6 profile-visible contributions across 2025-10-26–2026-10-27. GitHub contributions include more than commits.
+- **Consistency:** 1 consecutive active day(s) ending 2026-10-27; longest streak in this calendar: 1 day(s).
+- **Cadence:** Highest contribution total on Tue. This describes recorded activity, not a fixed work schedule.
+
+</details>
+
+Updated daily from the [GitHub profile calendar](https://github.com/KPSKolesnikova?tab=overview). Snapshot through **2026-10-27**; not real-time. Automated profile updates may also count as contributions.
+<!-- analytics:end -->
