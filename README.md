@@ -6,14 +6,21 @@ I work at the intersection of healthcare, business needs and technology. My work
 
 I'm a final-year Business Informatics student at Plekhanov Russian University of Economics, with a focus on business analysis and product management.
 
-**My toolkit**  
-Python · SQL · Statistics · JavaScript · TypeScript
+### Skills & expertise
 
-**My focus**  
-Requirements · Solution evaluation · Healthcare workflows · AI-enabled products
+<p align="center">
+  <img src="./assets/skills.svg" alt="Skills: Python 8/10, SQL 8/10, Statistics 9/10, Machine Learning 3/10; all scores self-assessed. Requirements gathering, solution testing and AI quality evaluation. JavaScript, TypeScript and C++. English C1, German A2, self-assessed." width="100%" />
+</p>
 
-**Languages**  
-English — C1 · German — A2 *(self-assessed)*
+<details>
+<summary>Skills in text</summary>
+
+- **Data & analytics:** Python — 8/10 · SQL — 8/10 · Statistics — 9/10 · Machine Learning — 3/10. Scores are self-assessed.
+- **Business & product work:** requirements gathering, solution testing, quality evaluation and AI adoption in medical information systems.
+- **Programming languages:** JavaScript, TypeScript, C++.
+- **Languages:** English — C1 · German — A2. Levels are self-assessed.
+
+</details>
 
 ---
 
