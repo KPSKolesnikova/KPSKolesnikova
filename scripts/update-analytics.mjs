@@ -47,7 +47,7 @@ const busiest = best ? names.filter((_, i) => weekdays[i] === best).join(' / ') 
 const first = days[0].date, last = days.at(-1).date;
 const escape = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&apos;' }[c]));
 const text = (x, y, value, size = 14, color = '#aab5cf', extra = '') => `<text x="${x}" y="${y}" font-size="${size}" fill="${color}" ${extra}>${escape(value)}</text>`;
-const metric = (x, value, label, foot, color) => `<rect x="${x}" y="89" width="300" height="110" rx="14" fill="#1d223a"/>${text(x + 22, 119, label, 12)}${text(x + 22, 158, value, 32, color, 'font-weight="700"')}${text(x + 22, 181, foot, 11)}`;
+const metric = (x, value, label, foot, color) => `${text(x + 22, 119, label, 12)}${text(x + 22, 158, value, 32, color, 'font-weight="700"')}${text(x + 22, 181, foot, 11)}`;
 const bars = (values, x, y, width, height, labels, color) => {
   const max = Math.max(1, ...values), step = width / values.length;
   return `<path d="M${x} ${y - height}V${y}H${x + width}" stroke="#39415e" fill="none"/>` + values.map((v, i) => {
@@ -57,8 +57,8 @@ const bars = (values, x, y, width, height, labels, color) => {
 };
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="493" viewBox="0 0 1000 493" role="img" aria-labelledby="title desc">
 <title id="title">${escape(username)} — GitHub activity</title><desc id="desc">${total} profile-visible contributions. Streak ending ${last}: ${current} days. Longest streak in this calendar: ${longest} days. Charts show weekly totals for the last 84 days and weekday totals for the displayed calendar.</desc>
-<rect width="1000" height="493" rx="18" fill="#15192e"/>
-<g font-family="Segoe UI,Arial,sans-serif">${text(28, 35, 'ACTIVITY / IN NUMBERS', 12, '#77d7d4', 'letter-spacing="3"')}${text(28, 65, username, 20, '#e2e8f0', 'font-weight="600"')}${text(972, 62, `Calendar through ${last}`, 12, '#aab5cf', 'text-anchor="end"')}
+
+<g font-family="Segoe UI,Arial,sans-serif">${text(28, 35, '04 / IN NUMBERS', 12, '#77d7d4', 'letter-spacing="3"')}${text(28, 65, username, 20, '#e2e8f0', 'font-weight="600"')}${text(972, 62, `Calendar through ${last}`, 12, '#aab5cf', 'text-anchor="end"')}
 ${metric(28, total, 'PROFILE CONTRIBUTIONS', `${first} — ${last}`, '#77d7d4')}${metric(350, current, 'STREAK AT PERIOD END', `Consecutive active days ending ${last}`, '#b7a0e2')}${metric(672, longest, 'LONGEST STREAK', 'Consecutive active days in this calendar', '#4ade80')}
 ${text(28, 238, 'Weekly contributions', 16, '#e2e8f0')}${text(28, 260, 'Contributions per 7-day interval · last 84 days', 11)}
 ${bars(weekly, 40, 396, 440, 106, Array.from({ length: 12 }, (_, i) => `W${i + 1}`), '#77d7d4')}

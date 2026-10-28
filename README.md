@@ -1,62 +1,76 @@
-![Business Analysis and Product Thinking — Healthcare, Data and AI](assets/header.svg)
+![Healthcare needs. Clearer product decisions.](./assets/header.svg)
 
-### Business Analyst & Product Owner · Healthcare & AI
-
-I work at the intersection of healthcare, business needs and technology. My work involves AI adoption in medical information systems, requirements gathering, solution testing and quality evaluation.
-
-I'm a final-year Business Informatics student at Plekhanov Russian University of Economics, with a focus on business analysis and product management.
-
-### Skills & expertise
-
-<p align="center">
-  <img src="./assets/skills.svg" alt="Skills: Python 8/10, SQL 8/10, Statistics 9/10, Machine Learning 3/10; all scores self-assessed. Requirements gathering, solution testing and AI quality evaluation. JavaScript, TypeScript and C++. English C1, German A2, self-assessed." width="100%" />
+<p>
+  <a href="https://github.com/KPSKolesnikova/clinical-compass"><img src="./assets/button-project.svg" alt="Explore Clinical Compass" width="210" /></a>
+  <a href="https://github.com/KPSKolesnikova/KPSKolesnikova/raw/refs/heads/main/cv/Polina-Kolesnikova-CV-template.pdf"><img src="./assets/button-cv.svg" alt="Download CV — working template PDF" width="210" /></a>
+  <!-- linkedin-button -->
 </p>
 
-<details>
-<summary>Skills in text</summary>
+<sub>CV: working template · [Edit the source](./cv/README.md)</sub>
 
-- **Data & analytics:** Python — 8/10 · SQL — 8/10 · Statistics — 9/10 · Machine Learning — 3/10. Scores are self-assessed.
-- **Business & product work:** requirements gathering, solution testing, quality evaluation and AI adoption in medical information systems.
-- **Programming languages:** JavaScript, TypeScript, C++.
-- **Languages:** English — C1 · German — A2. Levels are self-assessed.
+<a href="https://github.com/KPSKolesnikova/clinical-compass"><img src="./assets/project.svg" alt="Clinical Compass — a functional demonstration prototype supporting clinician and patient workflows with fictional records" width="100%" /></a>
+
+[View presentation](https://github.com/KPSKolesnikova/clinical-compass/blob/main/docs/pitch/clinical-compass-defense.pdf) · [Read the algorithm](https://github.com/KPSKolesnikova/clinical-compass/blob/main/docs/physician-support-algorithm.md)
+
+<sub>Demonstration prototype; clinical effectiveness has not been externally validated.</sub>
+
+### A little about me
+
+Business Analyst & Product Owner in healthcare, working on AI adoption in medical information systems, requirements, solution testing and quality evaluation. Final-year Business Informatics student at Plekhanov Russian University of Economics.
+
+<img src="./assets/skills.svg" alt="Skills: Python, SQL, Statistics; Machine Learning — learning. Requirements gathering, solution testing, AI quality evaluation. JavaScript, TypeScript, C++. English C1, German A2." width="100%" />
+
+<img src="./assets/roadmap.svg" alt="Learning roadmap — expand a course below for details" width="100%" />
+
+<sub>Planned courses · expand a step for details. Personal certificate downloads will appear after completion.</sub>
+
+<details>
+<summary><img src="./assets/course-1.svg" alt="01 · BPMN and process modelling · Camunda Academy · planned" width="96%" /></summary>
+
+Model healthcare workflows, clarify responsibilities and describe exceptions before implementation.
+
+**Practical outcome:** an AS-IS / TO-BE process model for a fictional patient journey.  
+**Cost:** free learning. **Credential:** the Camunda Knowledge — BPMN learning badge requires the BPMN learning path and assessment.
+
+[Explore Camunda Academy →](https://academy.camunda.com/) · [Badge requirements →](https://www.credly.com/org/camunda/badge/camunda-knowledge-bpmn)
 
 </details>
 
----
+<details>
+<summary><img src="./assets/course-2.svg" alt="02 · Product judgment · Pendo and Mind the Product · planned" width="96%" /></summary>
 
-### Featured project
+**Product Judgment: making confident decisions without complete data.** Develop a structured approach to product decisions when evidence is incomplete.
 
-**[Clinical Compass →](https://github.com/KPSKolesnikova/clinical-compass)**  
-A functional demonstration prototype for clinician and patient workflows, with explainable support for reviewing patient-reported information.
+**Practical outcome:** a short decision brief covering options, assumptions and the next experiment.  
+**Cost:** free. **Credential:** a verifiable completion badge; Pendo supports sharing the credential and downloading it as an image or PDF.
 
-[Product presentation](https://github.com/KPSKolesnikova/clinical-compass/blob/main/docs/pitch/clinical-compass-defense.pdf) · [Algorithm documentation](https://github.com/KPSKolesnikova/clinical-compass/blob/main/docs/physician-support-algorithm.md)
+[Explore Pendo Learning Lab →](https://www.pendo.io/learninglab/)
 
-*Demonstration with fictional records. Clinical effectiveness has not been externally validated.*
+</details>
 
----
+<details>
+<summary><img src="./assets/course-3.svg" alt="03 · Agile delivery · HP LIFE · planned" width="96%" /></summary>
 
-### Portfolio direction
+**Agile Project Management.** Review iterative delivery, Scrum and Kanban, and when to use them.
 
-I'm developing a public portfolio around three questions:
+**Practical outcome:** a small product backlog and delivery plan for a healthcare feature.  
+**Cost:** free. **Credential:** a Certificate of Completion, downloadable from HP LIFE after completing the course.
 
-- **Business analysis:** How can a healthcare workflow be translated into clear requirements and acceptance criteria?
-- **Product analytics:** Which metrics help identify a problem and evaluate a proposed improvement?
-- **AI product quality:** How should an AI feature be tested, reviewed and monitored before users rely on it?
+[Explore the course →](https://www.life-global.org/news/agile-project-management) · [Certificate and download instructions →](https://www.life-global.org/help)
 
----
+</details>
 
-### Learning roadmap
+<details>
+<summary><img src="./assets/course-4.svg" alt="04 · Project foundations · PMI KICKOFF · planned" width="96%" /></summary>
 
-*Planned learning — no completion or certification claimed.*
+Explore agile and predictive project approaches, planning and delivery fundamentals in less than an hour.
 
-- [Camunda Academy — BPMN](https://academy.camunda.com/)
-- [Pendo Learning Lab — Product Judgment](https://www.pendo.io/learninglab/)
-- [HP LIFE — Agile Project Management](https://www.life-global.org/news/agile-project-management)
-- [PMI — KICKOFF](https://www.pmi.org/kickoff)
+**Practical outcome:** a one-page project plan with scope, milestones and risks.  
+**Cost:** free. **Credential:** a shareable KICKOFF completion badge.
 
-<!-- Add a Selected Work section only when actual public cases are ready. Link each to its repository and explain your personal contribution. Replace roadmap entries with earned credential links only after completion. -->
+[Start PMI KICKOFF →](https://www.pmi.org/kickoff)
 
----
+</details>
 
 <!-- analytics:start -->
 ### Activity in numbers
