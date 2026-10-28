@@ -76,7 +76,7 @@ Explore agile and predictive project approaches, planning and delivery fundament
 ### Activity in numbers
 
 <p align="center">
-  <a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/analytics-grid.svg?v=2" alt="KPSKolesnikova — GitHub activity, calendar through 2026-10-28" width="100%" /></a>
+  <a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/analytics-flow.svg" alt="KPSKolesnikova — GitHub activity, calendar through 2026-10-28" width="100%" /></a>
 </p>
 
 <details>

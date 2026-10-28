@@ -71,7 +71,7 @@ const notes = `<!-- analytics:start -->
 ### Activity in numbers
 
 <p align="center">
-  <a href="https://github.com/${username}?tab=overview"><img src="./assets/analytics-grid.svg?v=2" alt="${username} — GitHub activity, calendar through ${last}" width="100%" /></a>
+  <a href="https://github.com/${username}?tab=overview"><img src="./assets/analytics-flow.svg?v=2" alt="${username} — GitHub activity, calendar through ${last}" width="100%" /></a>
 </p>
 
 <details>
@@ -89,6 +89,6 @@ let readme = await readFile(resolve(root, 'README.md'), 'utf8');
 if (/<!-- analytics:start -->[\s\S]*?<!-- analytics:end -->/.test(readme)) readme = readme.replace(/<!-- analytics:start -->[\s\S]*?<!-- analytics:end -->/, notes);
 else readme += `\n\n---\n\n${notes}\n`;
 await mkdir(resolve(root, 'assets'), { recursive: true });
-await writeFile(resolve(root, 'assets/analytics-grid.svg'), svg);
+await writeFile(resolve(root, 'assets/analytics-flow.svg'), svg);
 await writeFile(resolve(root, 'README.md'), readme);
 console.log(JSON.stringify({ first, last, total, current, longest, weekdays, weekly }));
