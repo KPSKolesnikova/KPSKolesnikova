@@ -29,7 +29,7 @@ jobs:
         run: node scripts/update-analytics.mjs
       - name: Commit updated snapshot if it changed
         run: |
-          git add assets/analytics-flow.svg README.md
+          git add assets/aurora/activity.svg README.md
           if git diff --cached --quiet; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

@@ -1,92 +1,78 @@
-![Healthcare needs. Clearer product decisions.](./assets/header-flow.svg)
+<img src="./assets/aurora/hero.svg" alt="Polina Kolesnikova — Business Analyst and Product Owner · Healthcare, Data and AI" width="100%" />
 
 <p>
-  <a href="https://github.com/KPSKolesnikova/clinical-compass"><img src="./assets/button-project.svg" alt="Explore Clinical Compass" width="210" /></a>
-  <a href="https://github.com/KPSKolesnikova/KPSKolesnikova/raw/refs/heads/main/cv/Polina-Kolesnikova-CV-template.pdf"><img src="./assets/button-cv.svg" alt="Download CV — working template PDF" width="210" /></a>
-  <a href="https://www.linkedin.com/in/polina-kolesnikova-a86567447/"><img src="./assets/button-linkedin-profile.svg" alt="Polina Kolesnikova on LinkedIn" width="210" /></a>
+<a href="https://github.com/KPSKolesnikova/clinical-compass"><img src="./assets/aurora/projects.svg" alt="Explore Clinical Compass" width="200" /></a>
+<a href="https://github.com/KPSKolesnikova/KPSKolesnikova/raw/refs/heads/main/cv/Polina-Kolesnikova-CV-template.pdf"><img src="./assets/aurora/cv.svg" alt="Download CV template PDF" width="200" /></a>
+<a href="https://www.linkedin.com/in/polina-kolesnikova-a86567447/"><img src="./assets/aurora/linkedin.svg" alt="Polina Kolesnikova on LinkedIn" width="200" /></a>
 </p>
 
-<sub>CV: working template · [Edit the source](./cv/README.md)</sub>
+<a href="https://github.com/KPSKolesnikova/clinical-compass"><img src="./assets/aurora/project.svg" alt="Clinical Compass — demonstration prototype with fictional records" width="100%" /></a>
 
-<a href="https://github.com/KPSKolesnikova/clinical-compass"><img src="./assets/project.svg" alt="Clinical Compass — a functional demonstration prototype supporting clinician and patient workflows with fictional records" width="100%" /></a>
+<p>
+<a href="https://github.com/KPSKolesnikova/clinical-compass/blob/main/docs/pitch/clinical-compass-defense.pdf"><img src="./assets/aurora/presentation.svg" alt="View project presentation" width="200" /></a>
+<a href="https://github.com/KPSKolesnikova/clinical-compass/blob/main/docs/physician-support-algorithm.md"><img src="./assets/aurora/algorithm.svg" alt="Read the algorithm documentation" width="200" /></a>
+</p>
 
-[View presentation](https://github.com/KPSKolesnikova/clinical-compass/blob/main/docs/pitch/clinical-compass-defense.pdf) · [Read the algorithm](https://github.com/KPSKolesnikova/clinical-compass/blob/main/docs/physician-support-algorithm.md)
+<img src="./assets/aurora/about.svg" alt="About Polina — AI adoption in medical information systems, requirements, solution testing and quality evaluation. Final-year Business Informatics student at Plekhanov Russian University of Economics." width="100%" />
 
-<sub>Demonstration prototype; clinical effectiveness has not been externally validated.</sub>
+<img src="./assets/aurora/skills.svg" alt="Python, SQL, Statistics; ML — learning. Requirements gathering, solution testing, AI quality evaluation. JavaScript, TypeScript, C++. English C1, German A2." width="100%" />
 
-### A little about me
-
-Business Analyst & Product Owner in healthcare, working on AI adoption in medical information systems, requirements, solution testing and quality evaluation. Final-year Business Informatics student at Plekhanov Russian University of Economics.
-
-<img src="./assets/skills-flow.svg" alt="Skills: Python, SQL, Statistics; Machine Learning — learning. Requirements gathering, solution testing, AI quality evaluation. JavaScript, TypeScript, C++. English C1, German A2." width="100%" />
-
-<img src="./assets/roadmap.svg" alt="Learning roadmap — expand a course below for details" width="100%" />
-
-<sub>Planned courses · expand a step for details. Personal certificate downloads will appear after completion.</sub>
+<img src="./assets/aurora/roadmap.svg" alt="Learning journey — four planned courses; expand a course for details" width="100%" />
 
 <details>
-<summary><strong>01 — BPMN &amp; process modelling · Camunda Academy</strong></summary>
+<summary><strong>01 · BPMN &amp; process modelling</strong> · Camunda Academy</summary>
 
-Model healthcare workflows, clarify responsibilities and describe exceptions before implementation.
+<img src="./assets/aurora/course-1.svg" alt="BPMN process modelling; free learning and an assessed learning badge." width="100%" />
 
-**Practical outcome:** an AS-IS / TO-BE process model for a fictional patient journey.  
-**Cost:** free learning. **Credential:** the Camunda Knowledge — BPMN learning badge requires the BPMN learning path and assessment.
-
-[Explore Camunda Academy →](https://academy.camunda.com/) · [Badge requirements →](https://www.credly.com/org/camunda/badge/camunda-knowledge-bpmn)
+<p>
+<a href="https://academy.camunda.com/"><img src="./assets/aurora/course.svg" alt="Open Camunda Academy course" width="180" /></a>
+<a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-bpmn"><img src="./assets/aurora/credential.svg" alt="Credential requirements" width="180" /></a>
+</p>
 
 </details>
 
 <details>
-<summary><strong>02 — Product judgment · Pendo × Mind the Product</strong></summary>
+<summary><strong>02 · Product judgment</strong> · Pendo × Mind the Product</summary>
 
-**Product Judgment: making confident decisions without complete data.** Develop a structured approach to product decisions when evidence is incomplete.
+<img src="./assets/aurora/course-2.svg" alt="Product judgment; free course and a verifiable completion badge." width="100%" />
 
-**Practical outcome:** a short decision brief covering options, assumptions and the next experiment.  
-**Cost:** free. **Credential:** a verifiable completion badge; Pendo supports sharing the credential and downloading it as an image or PDF.
+<p>
+<a href="https://www.pendo.io/learninglab/"><img src="./assets/aurora/course.svg" alt="Open Pendo × Mind the Product course" width="180" /></a>
 
-[Explore Pendo Learning Lab →](https://www.pendo.io/learninglab/)
-
-</details>
-
-<details>
-<summary><strong>03 — Agile delivery · HP LIFE</strong></summary>
-
-**Agile Project Management.** Review iterative delivery, Scrum and Kanban, and when to use them.
-
-**Practical outcome:** a small product backlog and delivery plan for a healthcare feature.  
-**Cost:** free. **Credential:** a Certificate of Completion, downloadable from HP LIFE after completing the course.
-
-[Explore the course →](https://www.life-global.org/news/agile-project-management) · [Certificate and download instructions →](https://www.life-global.org/help)
+</p>
 
 </details>
 
 <details>
-<summary><strong>04 — Project foundations · PMI KICKOFF</strong></summary>
+<summary><strong>03 · Agile delivery</strong> · HP LIFE</summary>
 
-Explore agile and predictive project approaches, planning and delivery fundamentals in less than an hour.
+<img src="./assets/aurora/course-3.svg" alt="Agile Project Management; free course and downloadable completion certificate." width="100%" />
 
-**Practical outcome:** a one-page project plan with scope, milestones and risks.  
-**Cost:** free. **Credential:** a shareable KICKOFF completion badge.
+<p>
+<a href="https://www.life-global.org/news/agile-project-management"><img src="./assets/aurora/course.svg" alt="Open HP LIFE course" width="180" /></a>
+<a href="https://www.life-global.org/help"><img src="./assets/aurora/credential.svg" alt="Credential requirements" width="180" /></a>
+</p>
 
-[Start PMI KICKOFF →](https://www.pmi.org/kickoff)
+</details>
+
+<details>
+<summary><strong>04 · Project foundations</strong> · PMI KICKOFF</summary>
+
+<img src="./assets/aurora/course-4.svg" alt="Project foundations; free course and shareable completion badge." width="100%" />
+
+<p>
+<a href="https://www.pmi.org/kickoff"><img src="./assets/aurora/course.svg" alt="Open PMI KICKOFF course" width="180" /></a>
+
+</p>
 
 </details>
 
 <!-- analytics:start -->
-### Activity in numbers
-
-<p align="center">
-  <a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/analytics-flow.svg?v=2" alt="KPSKolesnikova — GitHub activity, calendar through 2026-10-28" width="100%" /></a>
-</p>
-
-<details>
-<summary>What these numbers mean</summary>
-
-- **Activity:** 18 profile-visible contributions across 2025-10-26–2026-10-28. GitHub contributions include more than commits.
-- **Consistency:** 2 consecutive active day(s) ending 2026-10-28; longest streak in this calendar: 2 day(s).
-- **Cadence:** Highest contribution total on Wed. This describes recorded activity, not a fixed work schedule.
-
-</details>
-
-Updated daily from the [GitHub profile calendar](https://github.com/KPSKolesnikova?tab=overview). Snapshot through **2026-10-28**; not real-time. Automated profile updates may also count as contributions.
+<a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/aurora/activity.svg" alt="GitHub contribution calendar through 2026-10-28" width="100%" /></a>
 <!-- analytics:end -->
+
+<img src="./assets/aurora/footer.svg" alt="Profile views — approximate page hits since counter setup" width="100%" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=KPSKolesnikova&amp;label=PAGE+VIEWS&amp;color=7545D6&amp;style=for-the-badge" alt="Profile page hits, not unique visitors" />
+</p>
