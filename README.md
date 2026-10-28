@@ -1,4 +1,4 @@
-![Healthcare needs. Clearer product decisions.](./assets/header.svg)
+![Healthcare needs. Clearer product decisions.](./assets/header-flow.svg)
 
 <p>
   <a href="https://github.com/KPSKolesnikova/clinical-compass"><img src="./assets/button-project.svg" alt="Explore Clinical Compass" width="210" /></a>
@@ -18,7 +18,7 @@
 
 Business Analyst & Product Owner in healthcare, working on AI adoption in medical information systems, requirements, solution testing and quality evaluation. Final-year Business Informatics student at Plekhanov Russian University of Economics.
 
-<img src="./assets/skills.svg?v=2" alt="Skills: Python, SQL, Statistics; Machine Learning — learning. Requirements gathering, solution testing, AI quality evaluation. JavaScript, TypeScript, C++. English C1, German A2." width="100%" />
+<img src="./assets/skills-flow.svg" alt="Skills: Python, SQL, Statistics; Machine Learning — learning. Requirements gathering, solution testing, AI quality evaluation. JavaScript, TypeScript, C++. English C1, German A2." width="100%" />
 
 <img src="./assets/roadmap.svg" alt="Learning roadmap — expand a course below for details" width="100%" />
 
