@@ -3,7 +3,7 @@
 <p>
   <a href="https://github.com/KPSKolesnikova/clinical-compass"><img src="./assets/button-project.svg" alt="Explore Clinical Compass" width="210" /></a>
   <a href="https://github.com/KPSKolesnikova/KPSKolesnikova/raw/refs/heads/main/cv/Polina-Kolesnikova-CV-template.pdf"><img src="./assets/button-cv.svg" alt="Download CV — working template PDF" width="210" /></a>
-  <!-- linkedin-button -->
+  <a href="https://www.linkedin.com/in/polina-kolesnikova-a86567447/"><img src="./assets/button-linkedin.svg" alt="Polina Kolesnikova on LinkedIn" width="210" /></a>
 </p>
 
 <sub>CV: working template · [Edit the source](./cv/README.md)</sub>
