@@ -70,7 +70,7 @@ text('Business Informatics | Final year | Expected graduation: [Year]',9.5,color
 section('Skills')
 wrap('Business analysis: requirements gathering, solution testing, AI quality evaluation.')
 wrap('Data & technology: Python, SQL, statistics, JavaScript, TypeScript, C++.')
-wrap('Languages: English - C1; German - A2. Machine Learning: currently learning.')
+wrap('Languages: Russian - C1; English - C1; German - A2. Machine Learning: currently learning.')
 
 section('Credentials - complete later')
 wrap('[Add only earned credentials: exact name, issuer, date and verification link.]',color=accent)

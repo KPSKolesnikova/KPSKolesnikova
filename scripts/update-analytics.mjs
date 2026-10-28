@@ -68,7 +68,12 @@ ${text(40, 438, `${recent[0].date} → ${last} · oldest to newest`, 11)}${text(
 <path d="M28 457H972" stroke="#293B64"/>${text(28, 480, 'GitHub contribution calendar', 11)}${text(972, 480, 'Daily refresh', 11, '#4774FF', 'text-anchor="end"')}
 </g></svg>\n`;
 const notes = `<!-- analytics:start -->
+<details>
+<summary><strong>Activity &amp; contributions</strong></summary>
+
 <a href="https://github.com/${username}?tab=overview"><img src="./assets/aurora/activity.svg" alt="GitHub contribution calendar through ${last}" width="100%" /></a>
+
+</details>
 <!-- analytics:end -->`;
 let readme = await readFile(resolve(root, 'README.md'), 'utf8');
 if (/<!-- analytics:start -->[\s\S]*?<!-- analytics:end -->/.test(readme)) readme = readme.replace(/<!-- analytics:start -->[\s\S]*?<!-- analytics:end -->/, notes);

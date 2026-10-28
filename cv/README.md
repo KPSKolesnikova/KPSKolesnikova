@@ -35,7 +35,7 @@ Business Informatics · Final year · Expected graduation: [Year]
 ## Skills
 - Business analysis: requirements gathering, solution testing, AI quality evaluation.
 - Data & technology: Python, SQL, statistics, JavaScript, TypeScript, C++.
-- Languages: English — C1; German — A2.
+- Languages: Russian — C1; English — C1; German — A2.
 - Machine Learning: currently learning.
 
 ## Earned credentials

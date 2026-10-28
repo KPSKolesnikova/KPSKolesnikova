@@ -15,7 +15,7 @@
 
 <img src="./assets/aurora/about.svg" alt="About Polina — AI adoption in medical information systems, requirements, solution testing and quality evaluation. Final-year Business Informatics student at Plekhanov Russian University of Economics." width="100%" />
 
-<img src="./assets/aurora/skills.svg" alt="Python, SQL, Statistics; ML — learning. Requirements gathering, solution testing, AI quality evaluation. JavaScript, TypeScript, C++. English C1, German A2." width="100%" />
+<img src="./assets/aurora/skills-detailed.svg" alt="Python, SQL, Statistics; ML foundations — data preparation, validation and model metrics; learning. Requirements gathering, solution testing, AI quality evaluation. JavaScript, TypeScript, C++. Russian C1, English C1, German A2." width="100%" />
 
 <img src="./assets/aurora/roadmap.svg" alt="Learning journey — four planned courses; expand a course for details" width="100%" />
 
@@ -68,7 +68,12 @@
 </details>
 
 <!-- analytics:start -->
+<details>
+<summary><strong>Activity &amp; contributions</strong></summary>
+
 <a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/aurora/activity.svg" alt="GitHub contribution calendar through 2026-10-28" width="100%" /></a>
+
+</details>
 <!-- analytics:end -->
 
 <img src="./assets/aurora/footer.svg" alt="Profile views — approximate page hits since counter setup" width="100%" />
