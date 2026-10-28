@@ -71,7 +71,7 @@ const notes = `<!-- analytics:start -->
 ### Activity in numbers
 
 <p align="center">
-  <a href="https://github.com/${username}?tab=overview"><img src="./assets/analytics-grid.svg" alt="${username} — GitHub activity, calendar through ${last}" width="100%" /></a>
+  <a href="https://github.com/${username}?tab=overview"><img src="./assets/analytics-grid.svg?v=2" alt="${username} — GitHub activity, calendar through ${last}" width="100%" /></a>
 </p>
 
 <details>
