@@ -76,13 +76,13 @@ Explore agile and predictive project approaches, planning and delivery fundament
 ### Activity in numbers
 
 <p align="center">
-  <a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/analytics-flow.svg" alt="KPSKolesnikova — GitHub activity, calendar through 2026-10-28" width="100%" /></a>
+  <a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/analytics-flow.svg?v=2" alt="KPSKolesnikova — GitHub activity, calendar through 2026-10-28" width="100%" /></a>
 </p>
 
 <details>
 <summary>What these numbers mean</summary>
 
-- **Activity:** 14 profile-visible contributions across 2025-10-26–2026-10-28. GitHub contributions include more than commits.
+- **Activity:** 18 profile-visible contributions across 2025-10-26–2026-10-28. GitHub contributions include more than commits.
 - **Consistency:** 2 consecutive active day(s) ending 2026-10-28; longest streak in this calendar: 2 day(s).
 - **Cadence:** Highest contribution total on Wed. This describes recorded activity, not a fixed work schedule.
 
