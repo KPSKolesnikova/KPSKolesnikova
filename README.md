@@ -18,14 +18,14 @@
 
 Business Analyst & Product Owner in healthcare, working on AI adoption in medical information systems, requirements, solution testing and quality evaluation. Final-year Business Informatics student at Plekhanov Russian University of Economics.
 
-<img src="./assets/skills.svg" alt="Skills: Python, SQL, Statistics; Machine Learning — learning. Requirements gathering, solution testing, AI quality evaluation. JavaScript, TypeScript, C++. English C1, German A2." width="100%" />
+<img src="./assets/skills.svg?v=2" alt="Skills: Python, SQL, Statistics; Machine Learning — learning. Requirements gathering, solution testing, AI quality evaluation. JavaScript, TypeScript, C++. English C1, German A2." width="100%" />
 
 <img src="./assets/roadmap.svg" alt="Learning roadmap — expand a course below for details" width="100%" />
 
 <sub>Planned courses · expand a step for details. Personal certificate downloads will appear after completion.</sub>
 
 <details>
-<summary><img src="./assets/course-1.svg" alt="01 · BPMN and process modelling · Camunda Academy · planned" width="96%" /></summary>
+<summary><strong>01 — BPMN &amp; process modelling · Camunda Academy</strong></summary>
 
 Model healthcare workflows, clarify responsibilities and describe exceptions before implementation.
 
@@ -37,7 +37,7 @@ Model healthcare workflows, clarify responsibilities and describe exceptions bef
 </details>
 
 <details>
-<summary><img src="./assets/course-2.svg" alt="02 · Product judgment · Pendo and Mind the Product · planned" width="96%" /></summary>
+<summary><strong>02 — Product judgment · Pendo × Mind the Product</strong></summary>
 
 **Product Judgment: making confident decisions without complete data.** Develop a structured approach to product decisions when evidence is incomplete.
 
@@ -49,7 +49,7 @@ Model healthcare workflows, clarify responsibilities and describe exceptions bef
 </details>
 
 <details>
-<summary><img src="./assets/course-3.svg" alt="03 · Agile delivery · HP LIFE · planned" width="96%" /></summary>
+<summary><strong>03 — Agile delivery · HP LIFE</strong></summary>
 
 **Agile Project Management.** Review iterative delivery, Scrum and Kanban, and when to use them.
 
@@ -61,7 +61,7 @@ Model healthcare workflows, clarify responsibilities and describe exceptions bef
 </details>
 
 <details>
-<summary><img src="./assets/course-4.svg" alt="04 · Project foundations · PMI KICKOFF · planned" width="96%" /></summary>
+<summary><strong>04 — Project foundations · PMI KICKOFF</strong></summary>
 
 Explore agile and predictive project approaches, planning and delivery fundamentals in less than an hour.
 
@@ -76,7 +76,7 @@ Explore agile and predictive project approaches, planning and delivery fundament
 ### Activity in numbers
 
 <p align="center">
-  <a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/analytics-grid.svg" alt="KPSKolesnikova — GitHub activity, calendar through 2026-10-28" width="100%" /></a>
+  <a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/analytics-grid.svg?v=2" alt="KPSKolesnikova — GitHub activity, calendar through 2026-10-28" width="100%" /></a>
 </p>
 
 <details>
