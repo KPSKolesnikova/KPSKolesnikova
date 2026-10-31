@@ -71,7 +71,7 @@
 <details>
 <summary><strong>Activity &amp; contributions</strong></summary>
 
-<a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/aurora/activity.svg" alt="GitHub contribution calendar through 2026-10-30" width="100%" /></a>
+<a href="https://github.com/KPSKolesnikova?tab=overview"><img src="./assets/aurora/activity.svg" alt="GitHub contribution calendar through 2026-10-31" width="100%" /></a>
 
 </details>
 <!-- analytics:end -->
