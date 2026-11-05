@@ -13,6 +13,10 @@
 <a href="https://github.com/KPSKolesnikova/clinical-compass/blob/main/docs/physician-support-algorithm.md"><img src="./assets/aurora/algorithm.svg" alt="Read the algorithm documentation" width="200" /></a>
 </p>
 
+<a href="https://github.com/KPSKolesnikova/sprachlabor-duo"><img src="./assets/aurora/sprachlabor.svg" alt="Sprachlabor — German learning studio for A1–C1 with themed practice and exam preparation" width="100%" /></a>
+
+<p><a href="https://sprachlabor-duo-2028.ps-kolesnikova.chatgpt.site">Open the app</a> · <a href="https://github.com/KPSKolesnikova/sprachlabor-duo">Source and methodology</a></p>
+
 <img src="./assets/aurora/about.svg" alt="About Polina — AI adoption in medical information systems, requirements, solution testing and quality evaluation. Final-year Business Informatics student at Plekhanov Russian University of Economics." width="100%" />
 
 <img src="./assets/aurora/skills-detailed.svg" alt="Python, SQL, Statistics; ML foundations — data preparation, validation and model metrics; learning. Requirements gathering, solution testing, AI quality evaluation. JavaScript, TypeScript, C++. Russian C1, English C1, German A2." width="100%" />
