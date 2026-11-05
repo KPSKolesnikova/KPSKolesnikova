@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="152" viewBox="0 0 900 152" role="img" aria-labelledby="title desc">
+  <title id="title">Sprachlabor · Deutsch zu zweit</title>
+  <desc id="desc">German learning studio for A1 to C1 with themed tracks, practice and exam preparation.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#201938"/><stop offset="1" stop-color="#30244d"/></linearGradient>
+    <pattern id="grid" width="21" height="21" patternUnits="userSpaceOnUse"><path d="M21 0H0V21" fill="none" stroke="#b2a0e8" stroke-opacity=".15"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="898" height="150" rx="19" fill="url(#bg)" stroke="#7762a3"/>
+  <path d="M655 1h225a19 19 0 0 1 19 19v112a19 19 0 0 1-19 19H655z" fill="url(#grid)"/>
+  <g transform="translate(37 44)"><rect width="60" height="60" rx="13" fill="#30393b" stroke="#596553"/><g fill="#e4ff84"><rect x="17" y="17" width="10" height="10" rx="1"/><rect x="33" y="17" width="10" height="10" rx="1" opacity=".5"/><rect x="17" y="33" width="10" height="10" rx="1" opacity=".72"/><rect x="33" y="33" width="10" height="10" rx="1"/></g></g>
+  <text x="120" y="41" font-family="monospace" font-size="12" letter-spacing="2" font-weight="700" fill="#cbb7ff">LANGUAGE LEARNING PROJECT</text>
+  <text x="120" y="81" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="750" fill="#fbf8ff">Sprachlabor</text>
+  <text x="120" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#e2d9fa">German A1–C1 · Themed practice · Exam preparation</text>
+  <rect x="711" y="56" width="149" height="40" rx="9" fill="#e4ff84"/>
+  <text x="785.5" y="81" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="14" fill="#1a1f2e">View project →</text>
+</svg>
